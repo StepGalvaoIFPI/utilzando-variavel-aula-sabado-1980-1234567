@@ -1,0 +1,105 @@
+universidade="atividade Q 1"
+print(universidade)
+nome="aparecida"
+print(nome)
+universidade="atividade Q 2"
+print(universidade)
+nome="Maria Aparecida"
+print(nome)
+curso="lic computação"
+print(curso)
+universidade="atividade Q 3"
+print(universidade)
+nome="Maria Aparecida"
+print(nome)
+idade=45
+print(idade)
+universidade="atividade Q 4"
+print(universidade)
+a= "3"
+print (3)
+b="5"
+print (5)
+resultado= "2a*3b"
+print(resultado)
+unoversidade="atividade Q 5"
+print(universidade)
+num1=10
+print(num1)
+num2= 5
+print(num2)
+num3=8
+print(num3)
+media=23/3
+print(media)
+universidade="atividade Q 6"
+print(universidade)
+salario= 1050
+print(salario)
+imposto= 20/100
+print(imposto)
+salario=1050*0.2
+print(salario)
+universidade="atividade Q 7"
+print(universidade)
+base=10
+print(base)
+altura=10*2
+print(altura)
+area=10+(10*2)
+print(area)
+universidade="atividade Q 8"
+print(universidade)
+nota1=8.5
+print(nota1)
+nota2=9
+print(nota2)
+nota3=9.5
+print(nota3)
+media=8.5+9+9.5/3
+print(media)
+universidade="atividade Q 9"
+print(universidade)
+salbruto=1500
+print(salbruto)
+imposto=15/100
+print(imposto)
+salliq=1500-(15/100)
+print(salliq)
+universidade="atividade Q 10"
+print(universidade)
+valobruto=5000
+print(valobruto)
+impINSS= 15/100
+print(impINSS)
+impIR=10/100
+print(impIR)
+valorliq=5000-0.15-0.1
+print(valorliq)
+universidade="atividade Q 11"
+print(universidade)
+pi= 3145
+print(pi)
+raio= 3**2
+print(raio)
+area=3145*3**2
+print(area)
+universidade="atividade Q 12"
+print(universidade)
+a=7
+print(a)
+b=8
+print(b)
+peso_a =7*3.5
+print(peso_a)
+peso_b=8*7.5
+print(peso_b)
+media_p="a+b/11"
+print(media_p)
+
+
+
+      
+
+      
+      
